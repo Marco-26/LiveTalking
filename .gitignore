@@ -10,6 +10,7 @@ trial*/
 data
 data_utils/face_tracking/3DMM/*
 data_utils/face_parsing/79999_iter.pth
+models
 
 pretrained
 *.mp4
